@@ -1,0 +1,3 @@
+this is master file
+c is for code
+d is for double
